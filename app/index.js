@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/algo', function(req, res, next) {
-  res.send('<h1>Hello world</h1>');
+  res.send('<h1> /VotacionesLAL-2018/#!/Login </h1>');
 });
 
 
